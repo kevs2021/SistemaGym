@@ -1,28 +1,20 @@
-# **Sistema de Gestión para Gimnasios - BodyFit**
+# Ordenadores Hop - Sistema web de gestion de membresias
 
-<img src="img/gymLogo1.png" alt="BodyFit Logo" width="150">
+## Equipo: [Ordenadores Hop]
+| Rol           | Nombre          | Responsabilidades                                           |
+|---------------|-----------------|-------------------------------------------------------------|
+| Scrum Master  | [Brandon Silvestre]        | Facilitar el proceso Scrum, eliminar obstáculos, etc.       |
+| Product Owner | [Jose Aranda]        | Representar las necesidades del cliente, gestionar el Product Backlog. |
+| Desarrolladores | [Kevin Vargas]     | Desarrollar y entregar incrementos de producto.             |
+| QA Testers    | [Limber Morales]       | Validar los incrementos del producto.                      |
 
-## **Características**
+## Proyecto
+El proyecto [Sistema web de gestion de membresias] tiene como objetivo desarrollar un sistema de gestión de membresías de gimnasio para mejorar la experiencia del cliente y optimizar los procesos del negocio.
 
-- Gestión de usuarios
-- Control de membresías
-- Interfaces con Bootstrap
-
-## **Descripcion**
-### Ordenadores hop
-Nuestro proyecto es desarrollar un sistema de gestión y
-registro de membresías para el gimnasio body fit, con el
-objetivo de optimizar la atención al cliente y eliminar
-el uso de registros físicos.
-
-### Objetivos
--	Desarrollar un Sistema de Seguimiento de Cuotas que registre y monitoree los pagos de membresía de manera precisa, asegurando que los miembros estén al día con sus cuotas.
--	Diseñar y desarrollar un módulo que permita la actualización y organización eficiente de la información de los miembros, minimizando errores y duplicaciones.
--	Establecer Canales de Comunicación que faciliten la interacción con los miembros, promoviendo una mayor participación y satisfacción.
--	Realizar Pruebas de Usabilidad y Funcionalidad para evaluar la usabilidad y funcionalidad del sistema, asegurando que cumpla con los requisitos y expectativas de los usuarios finales.
+## Normas del Equipo
+- **Comunicación**: Utilizamos [Microsoft Teams] para mantenernos actualizados.
+- **Reuniones**: Se celebran reuniones de Sprint Planning, Daily Scrum, Sprint Review y Retrospective.
+- **Resolución de Conflictos**: Los conflictos se resuelven de forma colaborativa y con respeto.
+- **Entrega de Trabajo**: Todos los entregables deben cumplir con la definición de "Hecho" (DoD).
 
 
-## **Requisitos**
-
-- PHP >= 7.4
-- MySQL >= 5.7
